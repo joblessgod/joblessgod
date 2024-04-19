@@ -1,51 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Play Ground</title>
+    <title>My Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+        nav ul li {
+            margin-right: 20px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            padding: 10px;
+        }
+        nav ul li a:hover {
+            background-color: #555;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #333;
+            z-index: 1;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        .dropdown-content a {
+            display: block;
+            color: white;
+            padding: 10px;
+            text-decoration: none;
+        }
+        .dropdown-content a:hover {
+            background-color: #555;
+        }
+    </style>
 </head>
-
 <body>
-    <h1>Table Style</h1>
-    <hr>
 
+<nav>
+    <ul>
+        <li><a href="#calculator">Calculator</a></li>
+        <li><a href="#color-changer">Background Color Changer</a></li>
+        <li class="dropdown">
+            <a href="javascript:void(0)">More Projects</a>
+            <div class="dropdown-content">
+                <a href="#todo-list">Todo List</a>
+                <a href="#weather-app">Weather App</a>
+            </div>
+        </li>
+    </ul>
+</nav>
 
-    <table>
-        <tr>
-            <th>Company</th>
-            <th>Contact</th>
-            <th>Country</th>
-        </tr>
-        <tr>
-            <td>Alfreds Futterkiste</td>
-            <td>Maria Anders</td>
-            <td>Germany</td>
-        </tr>
-        <tr>
-            <td>Centro comercial Moctezuma</td>
-            <td>Francisco Chang</td>
-            <td>Mexico</td>
-        </tr>
+<div id="calculator">
+    <h2>Calculator</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos ducimus numquam error eius facere natus temporibus nam nesciunt aut esse velit nisi sed nobis deleniti dolores, provident nemo cum ab?</p>
+    <!-- Calculator Project Content -->
+</div>
 
-    </table>
-    <hr>
-    <table>
-        <tr>
-            <td>Emil</td>
-            <td>Tobias</td>
-            <td>Linus</td>
-        </tr>
-    </table>
+<div id="color-changer">
+    <h2>Background Color Changer</h2>
+    <!-- Color Changer Project Content -->
+</div>
 
+<div id="todo-list">
+    <h2>Todo List</h2>
+    <!-- Todo List Project Content -->
+</div>
 
-
-
-
-
-
+<div id="weather-app">
+    <h2>Weather App</h2>
+    <!-- Weather App Project Content -->
+</div>
 
 </body>
-
 </html>
