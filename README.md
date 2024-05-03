@@ -13,7 +13,7 @@
 </p>
 <p align="center" display="inline">
     <!-- <a href="https://leetcode.com/joblessgod/"><img width="48%" src="https://leetcode.card.workers.dev/joblessgod?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/joblessgod"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> -->
+    <a href="https://github.com/joblessgod"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> -->
 
 <!-- ### Hi there 👋
 I am **JobLessGod** -->
