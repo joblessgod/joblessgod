@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=yellow">
 </p>
 <p align="center" display="inline">
     <!-- <a href="https://leetcode.com/joblessgod/"><img width="48%" src="https://leetcode.card.workers.dev/joblessgod?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
