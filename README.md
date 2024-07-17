@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--     <h1 align="center">✩&emsp;JobLessGod&emsp;✩</h1> -->
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JobLessGod&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=1&desc=Do%20Follow%20for%20a%20cookie&descAlignY=64&stroke=000"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JobLessGod&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=1&fontColor=fff&desc=Do%20Follow%20for%20a%20cookie&descAlignY=67&stroke=000"/>
 
 </p>
 <p align="center">
