@@ -25,3 +25,6 @@ I am **JobLessGod** -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=tokyonight&layout=compact)
 
 </p>
+<p> 
+<img src="https://github-profile-trophy.vercel.app/?username=joblessgod"/>
+</p>
