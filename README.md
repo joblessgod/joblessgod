@@ -1,68 +1,29 @@
-# LIVE Code Editor
-**[LIVE Code Editor](https://codepenn.vercel.app)** is an online platform for testing and showcasing HTML, CSS, and JavaScript code snippets. It functions as a playground for web developers to experiment with front-end technologies in real-time.
-## Demo Video
-Click the image to watch the demo video on YouTube.
+<br>
 
-[![Thumbnail](https://github.com/user-attachments/assets/aa8b86fc-6e55-4182-8648-a97ab48d8c8f)](https://youtu.be/VKhfXxQp4nk)
-<!-- https://github.com/user-attachments/assets/a95c6f73-6f5f-4756-953c-36a6536e3a47 -->
+<p align="center">
+<!--     <h1 align="center">✩&emsp;JobLessGod&emsp;✩</h1> -->
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JobLessGod&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=0&fontColor=fff&desc=Do%20Follow%20for%20a%20cookie&descAlignY=64"/>
 
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yooooooo+Buddy;Welcome+to+my+profile!;Have+a+cookie+please!;Take+rest+for+cookie!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"/>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=yellow">
+</p>
+<p align="center" display="inline">
+    <!-- <a href="https://leetcode.com/joblessgod/"><img width="48%" src="https://leetcode.card.workers.dev/joblessgod?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/joblessgod"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> -->
 
+<!-- ### Hi there 👋
+I am **JobLessGod** -->
 
+![JobLessGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblessgod&show_icons=true&theme=radical)
 
-## Features
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=tokyonight&layout=compact)
 
-- **Real-Time Preview**: See the results of your code instantly in a live preview pane.
-- **Code Sharing**: Easily share your creations with others via a unique URL.
-- **Community Contributions**: Explore and fork pens created by other developers to learn and build upon their work.
-- **Collaboration Tools**: Work together with other developers in real-time.
-- **Responsive Design**: Test and view your creations on different screen sizes.
-
-## Usage
-
-1. **Write Code**: Enter your HTML, CSS, and JavaScript in the respective panels.
-2. **Live Preview**: Watch your changes take effect immediately in the preview area.
-3. **Save and Share**: Save your work and share it with a unique URL.
-4. **Explore and Learn**: Browse through the community's creations for inspiration and learning.
-
-## Getting Started
-
-1. Go to [LIVE Code Editor](https://codepenn.vercel.app/).
-2. Sign up for a free account to start creating and saving your work.
-3. Begin a new pen and start coding.
-
-## Example
-
-```html
-<!-- HTML -->
-<div class="container">
-  <h1>Hello, world!</h1>
-</div>
-```
-
-```css
-/* CSS */
-.container {
-  text-align: center;
-  padding: 50px;
-}
-```
-
-```js
-// JavaScript
-document.querySelector('h1').style.color = 'blue';
-```
-
-## Contribution
-
-I welcome your contributions! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License.
+<h1 align="center"> Trophies </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=joblessgod"/>
+</p>
