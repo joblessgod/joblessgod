@@ -29,3 +29,6 @@ I am **JobLessGod** -->
 <h1 align="center"> Trophies </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=joblessgod"/>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
