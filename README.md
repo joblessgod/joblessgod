@@ -19,10 +19,12 @@
 
 <!-- ### Hi there 👋
 I am **JobLessGod** -->
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joblessgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joblessgod&theme=dark&hide_border=false)<br/>
 ![JobLessGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblessgod&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=tokyonight&layout=compact)
 
 <h1 align="center"> Trophies </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=joblessgod"/>
