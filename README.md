@@ -1,4 +1,10 @@
-
+<h1 align="left">
+    <img src="https://avatars.githubusercontent.com/u/156568930?v=4" alt="NobleMajo" height="32" />
+    <u>
+        About me
+    </u>
+</h1>
+<p align="center" display="inline">
 <div style="position: relative; width: 100%;">
     <!-- <h1 align="center">✩&emsp;JobLessGod&emsp;✩</h1> -->
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JobLessGod&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=0&fontColor=fff&desc=Do%20Follow%20for%20a%20cookie&descAlignY=64"/>
@@ -19,7 +25,15 @@
 </div>
 <br>
 
-<p align="center" display="inline">
+ <h1 align="left"><u>Github stats</u></h1>
+
+<!-- 
+###########################################
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/joblessgod/joblessgod/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="JobLessGod" />
+</p>
+##########################################
+>
     <!-- <a href="https://leetcode.com/joblessgod/"><img width="48%" src="https://leetcode.card.workers.dev/joblessgod?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/joblessgod"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> -->
 
