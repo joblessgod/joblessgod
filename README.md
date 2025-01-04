@@ -26,7 +26,7 @@
 <br>
 
  <h1 align="left"><u>Github stats</u></h1>
-
+<h4>⚠️ Due to my 1 Sem exam, I didn't able to code something! 😭</h4>
 <!-- 
 ###########################################
 <p align="center" style="width: 100%;">
