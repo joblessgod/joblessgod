@@ -51,7 +51,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center; ">
     <div style="display: inline-block; height: 100%;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
@@ -59,7 +59,7 @@
             <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/>
         </picture>
     </div>
-</div>
+</div> -->
 
 <br>
 <div align="center">
