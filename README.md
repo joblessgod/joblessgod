@@ -1,85 +1,27 @@
-<h1 align="left">
-    <img src="https://avatars.githubusercontent.com/u/156568930?s=200&v=4" alt="NobleMajo" height="32" />
-    <u>
-        About me
-    </u>
-</h1>
-<p align="center" display="inline">
-<div style="position: relative; width: 100%;">
-    <!-- <h1 align="center">✩&emsp;JobLessGod&emsp;✩</h1> -->
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JobLessGod&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=0&fontColor=fff&desc=Do%20Follow%20for%20a%20cookie&descAlignY=64"/>
-
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=yellow">
-</p>
-<!-- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yooooooo+Buddy;Welcome+to+my+profile!;Have+a+cookie+please!;Take+rest+for+cookie!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p> -->
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+JLG+Github+Profile;I+Am+A+Fullstack+Developer.;I+Have+6+Month+Of+Experiences.">
-<!--
-<div style="position: absolute; top: 20px; left: 20px;">
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"/>
-</div>-->
-</div>
-<br>
-
- <h1 align="left"><u>Github stats</u></h1>
-<h4>:warning:I was unable to code anything because of my first semester exam! ⁣:sob:</h4>
-<!-- 
-###########################################
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/joblessgod/joblessgod/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="JobLessGod" />
-</p>
-##########################################
->
-    <!-- <a href="https://leetcode.com/joblessgod/"><img width="48%" src="https://leetcode.card.workers.dev/joblessgod?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/joblessgod"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> -->
-
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=joblessgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joblessgod&theme=dark&hide_border=false)<br/>
-![JobLessGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblessgod&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joblessgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 💫 About Me:
+🔭 I’m currently working on npm package "LetSignin"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node. js<br>🌱 I’m currently learning Discord.js<br>💬 Ask me about<br>⚡ Fun fact
 
 
-<h1 align="center"> Trophies </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=joblessgod"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JobLessGod) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JobLessGod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamjoblessgod@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JobLessGod&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JobLessGod&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JobLessGod&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JobLessGod&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- <div style="text-align: center; ">
-    <div style="display: inline-block; height: 100%;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
-            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/>
-        </picture>
-    </div>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JobLessGod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
-<div align="center">
- <a href="https://github.com/joblessgod?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=joblessgod&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@joblessgod's github-readme-stats"/></a>
- <a href="https://github.com/joblessgod?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=joblessgod&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@joblessgod's github-readme-streak-stats"/></a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=JobLessGod&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<br>
-<div >
-    <div style="display: inline-block; height: 100%;">
-        <picture>
-            <!-- Dark theme -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=joblessgod&theme=onestar&no-frame=true&column=8&row=1" />
-            <!-- Light theme -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=joblessgod&theme=onedark&no-frame=true&column=8&row=1" />
-            <!-- Fallback image -->
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=joblessgod&theme=onestar&no-frame=true&column=8&row=1" alt="@joblessgod's trophy stats" />
-        </picture>
-    </div>
- 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
