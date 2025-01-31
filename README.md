@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://avatars.githubusercontent.com/u/193817883?s=200&v=4" alt="NobleMajo" height="32" />
+    <img src="https://avatars.githubusercontent.com/u/156568930?s=200&v=4" alt="NobleMajo" height="32" />
     <u>
         About me
     </u>
