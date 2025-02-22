@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on npm package "LetSignin"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node. js<br>🌱 I’m currently learning Discord.js<br>💬 Ask me about<br>⚡ Fun fact
-
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=yellow">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JobLessGod) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JobLessGod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamjoblessgod@gmail.com) 
