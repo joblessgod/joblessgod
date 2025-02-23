@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on npm package "LetSignin"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node. js<br>🌱 I’m currently learning Discord.js<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on npm package "LetSignin"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node. js<br>🌱 I’m currently learning Discord.js<br>💬 Ask me about<br>⚡ Fun fact: Coder leads the worlds by coding insane things!
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=yellow">
 </p>
