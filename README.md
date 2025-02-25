@@ -12,10 +12,15 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JobLessGod&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JobLessGod&theme=shadow_green&hide_border=true)<br/>
+
+## 🎃 GitHub Streaks
+![](https://github-readme-streak-stats.herokuapp.com/?user=JobLessGod&theme=shadow_green&hide_border=true)
+
+## ✌🏻 Most Used Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JobLessGod&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JobLessGod&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=true&hide_title=false&area=true%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/>
+
