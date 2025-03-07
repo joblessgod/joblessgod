@@ -5,44 +5,44 @@ on:
     branches:
       - main
     paths:
-      - 'README.md'  # Make sure it only triggers when README.md is changed
+      - 'README.md'  # Ensure it only triggers when README.md is changed
 
 jobs:
   ContributeBump:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # Required for PAT authentication
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Ensures full history to prevent refspec errors
 
-      - name: Set up Git
-        run: |
-          git config --global user.name "joblessgod"
-          git config --global user.email "iamjoblessgod@gmail.com"
+    - name: Set up Git
+      run: |
+        git config --local user.name "joblessgod"
+        git config --local user.email "iamjoblessgod@gmail.com"
 
-      - name: Get current contribution and last updated timestamp
-        run: |
-          COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
-          LAST_UPDATED=$(grep -oP 'Last updated: \K.*' README.md || echo "Not available")
-          echo "Contribution while offline: $COUNT"
-          echo "Last updated: $LAST_UPDATED"
+    - name: Get current contribution and last updated timestamp
+      run: |
+        COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
+        LAST_UPDATED=$(grep -oP 'Last updated: \K.*' README.md || echo "Not available")
+        echo "Contribution while offline: $COUNT"
+        echo "Last updated: $LAST_UPDATED"
+        echo "CURRENT_COUNT=$COUNT" >> $GITHUB_ENV  # Save to environment variable for later use
 
-      - name: Update README.md with contribution count
-        run: |
-          COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
-          NEW_COUNT=$((COUNT + 1))
-          sed -i 's/contribution while offline: .*/contribution while offline: '"$NEW_COUNT"'/g' README.md || echo "contribution while offline: 1" >> README.md
-          echo "Last updated: $(date)" >> README.md  # Ensures file change
+    - name: Stage and commit any unstaged changes (if any)
+      run: |
+        git add .
+        git diff --cached --quiet || git commit -m "Auto-commit unstaged changes before contribution bump"
 
-      - name: Commit changes
-        run: |
-          git add README.md
-          git commit -m "Update contribution count to $NEW_COUNT" --allow-empty
+    - name: Update README.md with new contribution count
+      run: |
+        COUNT=$((CURRENT_COUNT + 1))
+        sed -i 's/contribution while offline: .*/contribution while offline: '"$COUNT"'/g' README.md || echo "contribution while offline: 1" >> README.md
+        echo "Last updated: $(date)" >> README.md  # Ensures file change
 
-      - name: Push changes directly to the main branch
-        env:
-          PAT: ${{ secrets.PAT }}
-        run: |
-          git push https://x-access-token:${PAT}@github.com/joblessgod/joblessgod.git HEAD:main
+    - name: Commit and push changes
+      run: |
+        git add README.md
+        git commit -m "Update contribution count to $COUNT"
+        git push https://x-access-token:${{ secrets.PAT }}@github.com/joblessgod/joblessgod.git HEAD:main
