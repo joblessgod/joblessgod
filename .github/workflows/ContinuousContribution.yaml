@@ -31,18 +31,8 @@ jobs:
           git add README.md
           git commit -m "Update contribution count to $NEW_COUNT" --allow-empty
 
-      - name: Push changes to separate branch
+      - name: Push changes directly to the main branch
         env:
           PAT: ${{ secrets.PAT }}
         run: |
-          git branch -D auto-update || true
-          git checkout -b auto-update
-          git push -f https://x-access-token:${PAT}@github.com/joblessgod/joblessgod.git auto-update
-
-      - name: Create pull request & auto-merge
-        env:
-          PAT: ${{ secrets.PAT }}
-        run: |
-          gh auth login --with-token <<< "${PAT}"
-          gh pr create --base main --head auto-update --title "Auto Update README" --body "Automated README update"
-          gh pr merge --auto --squash --delete-branch
+          git push https://x-access-token:${PAT}@github.com/joblessgod/joblessgod.git HEAD:main
