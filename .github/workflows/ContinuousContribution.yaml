@@ -2,7 +2,7 @@ name: ContinuousContribution
 
 on:
   schedule:
-    - cron: '*/3 * * * *'  # Runs every 3 minutes
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
 
 jobs:
   ContinuousContribution:
@@ -21,21 +21,10 @@ jobs:
 
       - name: Update README.md with contribution count
         run: |
-          git pull origin main  # Ensure you're working with the latest version
-          
-          # Check if the line "contribution while offline:" exists
           COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
           NEW_COUNT=$((COUNT + 1))
-          
-          # Update or append the contribution line
-          if grep -q 'contribution while offline:' README.md; then
-            sed -i 's/contribution while offline: .*/contribution while offline: '"$NEW_COUNT"'/g' README.md
-          else
-            echo "contribution while offline: $NEW_COUNT" >> README.md
-          fi
-
-          # Append last updated timestamp
-          echo "Last updated: $(date)" >> README.md
+          sed -i 's/contribution while offline: .*/contribution while offline: '"$NEW_COUNT"'/g' README.md || echo "contribution while offline: 1" >> README.md
+          echo "Last updated: $(date)" >> README.md  # Ensures file change
 
       - name: Commit changes
         run: |
