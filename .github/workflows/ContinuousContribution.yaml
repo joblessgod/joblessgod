@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Ensures full history to prevent refspec errors
+          persist-credentials: false  # Required for using PAT
 
       - name: Set up Git
         run: |
@@ -21,18 +21,15 @@ jobs:
 
       - name: Update README.md with contribution count
         run: |
-          if grep -q "contribution while offline:" README.md; then
-            COUNT=$(grep "contribution while offline:" README.md | awk '{print $4}')
-            NEW_COUNT=$((COUNT + 1))
-            sed -i 's/contribution while offline: .*/contribution while offline: '${NEW_COUNT}'/' README.md
-          else
-            echo -e "\ncontribution while offline: 1" >> README.md
-          fi
+          COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
+          NEW_COUNT=$((COUNT + 1))
+          sed -i 's/contribution while offline: .*/contribution while offline: '"$NEW_COUNT"'/g' README.md || echo "contribution while offline: 1" >> README.md
+          echo "Last updated: $(date)" >> README.md  # Ensures file change
 
       - name: Commit and push changes
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git add README.md
-          git commit -m "Update contribution count"
-          git push origin master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "Update contribution count to $NEW_COUNT" --allow-empty
+          git push https://x-access-token:${PAT}@github.com/joblessgod/joblessgod.git main
