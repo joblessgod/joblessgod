@@ -1,0 +1,38 @@
+name: ContinuousContribution
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+
+jobs:
+  ContinuousContribution:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures full history to prevent refspec errors
+
+      - name: Set up Git
+        run: |
+          git config --local user.name "joblessgod"
+          git config --local user.email "iamjoblessgod@gmail.com"
+
+      - name: Update README.md with contribution count
+        run: |
+          if grep -q "contribution while offline:" README.md; then
+            COUNT=$(grep "contribution while offline:" README.md | awk '{print $4}')
+            NEW_COUNT=$((COUNT + 1))
+            sed -i 's/contribution while offline: .*/contribution while offline: '${NEW_COUNT}'/' README.md
+          else
+            echo -e "\ncontribution while offline: 1" >> README.md
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git add README.md
+          git commit -m "Update contribution count"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
