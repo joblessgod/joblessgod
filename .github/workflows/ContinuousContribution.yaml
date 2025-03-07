@@ -14,6 +14,10 @@ jobs:
         with:
           persist-credentials: false  # Required for PAT authentication
 
+      - name: Debug - Print current time
+        run: |
+          echo "Workflow triggered at: $(date)"
+
       - name: Set up Git
         run: |
           git config --global user.name "joblessgod"
