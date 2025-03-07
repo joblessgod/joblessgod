@@ -11,7 +11,6 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=joblessgod&color=yellow">
 </p>
 
-### Contribution while offline: 1
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JobLessGod) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JobLessGod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamjoblessgod@gmail.com) 
@@ -32,5 +31,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=JobLessGod&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=true&hide_title=false&area=true%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/>
+
+### Contribution while offline: 1
 
 Last updated: Fri Mar  7 03:54:43 UTC 2025
