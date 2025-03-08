@@ -2,7 +2,7 @@ name: ContinuousContribution
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '*/30 * * * *'  # Runs every 5 minutes
 
 jobs:
   ContinuousContribution:
@@ -28,7 +28,7 @@ jobs:
           COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
           NEW_COUNT=$((COUNT + 1))
           sed -i 's/contribution while offline: .*/contribution while offline: '"$NEW_COUNT"'/g' README.md || echo "contribution while offline: 1" >> README.md
-          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S')" >> README.md  # Ensures file change
+          echo "Last updated: $(date)" >> README.md  # Ensures file change
 
       - name: Commit changes
         run: |
