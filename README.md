@@ -1,9 +1,11 @@
 # Hi everyone, I'm JobLessGod! 👋
-
 <p align="center">
 <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=joblessgod&data=followers,repositories,stars,commits&theme=darkmode">
 </p>
 
+# ReadMe Update
+- Total commits(while offline): 10
+- Last updated: March 1, 2025
 
 # 💫 About Me:
 🔭 I’m currently working on npm package "LetSignin"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node. js<br>🌱 I’m currently learning Discord.js<br>💬 Ask me about<br>⚡ Fun fact: Coder leads the worlds by coding insane things!
@@ -32,5 +34,3 @@
 
  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=true&hide_title=false&area=true%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/>
 
-### Contribution while offline: 1
-Last updated: March 1, 2025
