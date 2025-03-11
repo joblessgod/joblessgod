@@ -33,6 +33,7 @@ jobs:
 
       - name: Update Time in README
         run: |
+          export TZ="Asia/Kathmandu"
           DATE=$(date +'%d/%m/%Y %I:%M:%S %p')
           sed -i "s|Last updated: .*|Last updated: $DATE|" README.md
           echo "Updated README with current date and time: $DATE"
@@ -43,12 +44,12 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Released with new time"
-          git push origin main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joblessgod/joblessgod.git main
           echo "Committed release"
 
       - name: Create tag
         run: |
           TAG_NAME=$(date +'%Y%m%d%H%M%S')
           git tag $TAG_NAME
-          git push origin $TAG_NAME
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joblessgod/joblessgod.git $TAG_NAME
           echo "Created tag $TAG_NAME"
