@@ -33,7 +33,9 @@ jobs:
 
       - name: Update Time in README
         run: |
-          sed -i "s/Last updated: .*/Last updated: $(date +'%d/%m/%Y %I:%M:%S %p')/" README.md
+          DATE=$(date +'%d/%m/%Y %I:%M:%S %p')
+          sed -i "s|Last updated: .*|Last updated: $DATE|" README.md
+          echo "Updated README with current date and time: $DATE"
 
       - name: Commit New Time with auto commit
         run:  |
