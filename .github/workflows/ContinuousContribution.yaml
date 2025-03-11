@@ -1,42 +1,52 @@
 name: ContinuousContribution
 
+# on:
+#   schedule:
+#     - cron: '*/30 * * * *'  # Runs every 5 minutes
+
 on:
-  schedule:
-    - cron: '*/30 * * * *'  # Runs every 5 minutes
+  push:
+    branches:
+      - main
 
 jobs:
-  ContinuousContribution:
+  publish:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
-          persist-credentials: false  # Required for PAT authentication
+          fetch-depth: 0
 
-      - name: Debug - Print current time
-        run: |
-          echo "Workflow triggered at: $(date)"
+      # - name: Run JavaScript Date formatting script
+      #   run: |
+      #     echo "const date = new Date();"
+      #     echo "const day = String(date.getDate()).padStart(2, '0');"
+      #     echo "const month = String(date.getMonth() + 1).padStart(2, '0');"
+      #     echo "const year = date.getFullYear();"
+      #     echo "const hours = date.getHours();"
+      #     echo "const minutes = String(date.getMinutes()).padStart(2, '0');"
+      #     echo "const seconds = String(date.getSeconds()).padStart(2, '0');"
+      #     echo "const ampm = hours >= 12 ? 'PM' : 'AM';"
+      #     echo "const formattedHours = hours % 12 || 12;"
+      #     echo "console.log(`${day}/${month}/${year} ${formattedHours}:${minutes}:${seconds} ${ampm}`);"
+      #     node -e "$(cat)"
 
-      - name: Set up Git
+      - name: Update Time in README
         run: |
-          git config --global user.name "joblessgod"
-          git config --global user.email "iamjoblessgod@gmail.com"
+          sed -i "s/Last updated: .*/Last updated: $(date +'%d/%m/%Y %I:%M:%S %p')/" README.md
 
-      - name: Update README.md with contribution count
-        run: |
-          COUNT=$(grep -oP 'contribution while offline: \K\d+' README.md || echo 0)
-          NEW_COUNT=$((COUNT + 1))
-          sed -i 's/contribution while offline: .*/contribution while offline: '"$NEW_COUNT"'/g' README.md || echo "contribution while offline: 1" >> README.md
-          echo "Last updated: $(date)" >> README.md  # Ensures file change
+      - name: Commit New Time with auto commit
+        run:  |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Released with new time"
+          git push origin main
+          echo "Committed release"
 
-      - name: Commit changes
+      - name: Create tag
         run: |
-          git add README.md
-          git commit -m "Update contribution count to $NEW_COUNT" --allow-empty
-
-      - name: Push changes directly to the main branch
-        env:
-          PAT: ${{ secrets.PAT }}
-        run: |
-          git push https://x-access-token:${PAT}@github.com/joblessgod/joblessgod.git HEAD:main
+          TAG_NAME=$(date +'%Y%m%d%H%M%S')
+          git tag $TAG_NAME
+          git push origin $TAG_NAME
+          echo "Created tag $TAG_NAME"
