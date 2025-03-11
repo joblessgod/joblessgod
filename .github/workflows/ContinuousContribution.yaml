@@ -10,26 +10,12 @@ on:
       - main
 
 jobs:
-  publish:
+  updateReadmeTime:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-
-      # - name: Run JavaScript Date formatting script
-      #   run: |
-      #     echo "const date = new Date();"
-      #     echo "const day = String(date.getDate()).padStart(2, '0');"
-      #     echo "const month = String(date.getMonth() + 1).padStart(2, '0');"
-      #     echo "const year = date.getFullYear();"
-      #     echo "const hours = date.getHours();"
-      #     echo "const minutes = String(date.getMinutes()).padStart(2, '0');"
-      #     echo "const seconds = String(date.getSeconds()).padStart(2, '0');"
-      #     echo "const ampm = hours >= 12 ? 'PM' : 'AM';"
-      #     echo "const formattedHours = hours % 12 || 12;"
-      #     echo "console.log(`${day}/${month}/${year} ${formattedHours}:${minutes}:${seconds} ${ampm}`);"
-      #     node -e "$(cat)"
 
       - name: Update Time in README
         run: |
@@ -38,18 +24,24 @@ jobs:
           sed -i "s|Last updated: .*|Last updated: $DATE|" README.md
           echo "Updated README with current date and time: $DATE"
 
-      - name: Commit New Time with auto commit
+      - name: Update Commit Count in README
+        run: |
+          COMMIT_COUNT=$(git rev-list --count --all)
+          sed -i "s|Total commits(while offline): .*|Total commits(while offline): $COMMIT_COUNT|" README.md
+          echo "Updated README with commit count: $COMMIT_COUNT"
+
+      - name: Commit New Time and Commit Count with auto commit
         run:  |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Released with new time"
+          git commit -m "Updated README with new time and commit count"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joblessgod/joblessgod.git main
           echo "Committed release"
 
       - name: Create tag
         run: |
-          TAG_NAME=$(date +'%Y%m%d%H%M%S')
+          TAG_NAME=$(date +'%Y-%m-%d_%H-%M-%S')
           git tag $TAG_NAME
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joblessgod/joblessgod.git $TAG_NAME
           echo "Created tag $TAG_NAME"
