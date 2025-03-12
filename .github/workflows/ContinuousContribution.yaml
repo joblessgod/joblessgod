@@ -2,7 +2,7 @@ name: ContinuousContribution
 
 on:
   schedule:
-    - cron: '* */2 * * *'
+    - cron: "*/5 * * * *"
 
 jobs:
   updateReadmeTime:
@@ -11,6 +11,11 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+
+      - name: Debug Schedule
+        run: | 
+          echo "Triggered by schedule: ${{ github.event.schedule }}"
+          echo "Debug schedule"
 
       - name: Update Time in README
         run: |
@@ -26,7 +31,7 @@ jobs:
           echo "Updated README with commit count: $COMMIT_COUNT"
 
       - name: Commit New Time and Commit Count with auto commit
-        run:  |
+        run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
