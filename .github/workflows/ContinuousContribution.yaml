@@ -30,7 +30,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Updated README with new time and commit count"
+          git commit -m "Updated README with time $DATE and commit count: $COMMIT_COUNT"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joblessgod/joblessgod.git main
           echo "Committed release"
 

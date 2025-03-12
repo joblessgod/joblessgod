@@ -3,9 +3,22 @@
 <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=joblessgod&data=followers,repositories,stars,commits&theme=darkmode">
 </p>
 
-# ReadMe Update
+<p align="center"> 
+  <br>&nbsp;
+  <strong>These numbers don't mean anything, or maybe they do?</strong>
+  <br>&nbsp;
+  <img src="https://profile-counter.glitch.me/JobLessGod/count.svg" />
+</p>
+
+
 - Total commits(while offline): 190
 - Last updated: 12/03/2025 09:04:01 PM
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JobLessGod/JobLessGod/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JobLessGod/JobLessGod/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/JobLessGod/JobLessGod/blob/output/github-snake.svg" />
+</picture>
 
 # 💫 About Me:
 🔭 I’m currently working on npm package "LetSignin"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node. js<br>🌱 I’m currently learning Discord.js<br>💬 Ask me about<br>⚡ Fun fact: Coder leads the worlds by coding insane things!
@@ -32,4 +45,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JobLessGod&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=true&hide_title=false&area=true%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/>
+ <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=vue&hide_border=true&hide_title=false&area=true%20Contribution%20Overview%20Across%20All%20Repositories" alt="joblessgod's stats" style="width:97%;"/> -->
