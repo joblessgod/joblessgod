@@ -2,7 +2,7 @@ name: ContinuousContribution
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "* */5 * * *"
 
 jobs:
   updateReadmeTime:
