@@ -23,8 +23,8 @@
 <a href="https://codepen.io/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joblessgod" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27147784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27147784" height="30" width="40" /></a>
 <a href="https://instagram.com/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joblessgod" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joblessgod" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joblessgod" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joblessgod" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joblessgod" height="30" width="40" /></a>
 </p>
 
 # Skills
