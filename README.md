@@ -3,6 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/joblessgod?color=7289da&logo=GitHub&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=joblessgod&label=Profile%20views&color=7289da&style=for-the-badge)
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=7289da&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27184%26project%3D%26in=0" width=170p>
 
 - 🔭 I’m currently working on DiscordBot **Sancord**
 
