@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Virtual Private Server(VPS)**
 
-- 📫 How to reach me **iamjoblessgod@gmail.com**
+- 📫 How to reach me [@email](https://mailto:iamjoblessgod@gmail.com)
 
 - ⚡ Fun fact `You never finish a program, you just stop working on it.`
 
