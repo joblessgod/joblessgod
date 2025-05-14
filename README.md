@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/joblessgod?color=7289da&logo=GitHub&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=joblessgod&label=Profile%20views&color=7289da&style=for-the-badge)
 
-- 🔭 I’m currently working on DiscordBot **Sancord**
+- 🔭 I’m currently working on [DiscordBot]() [Sancord]().
 
 - 🌱 I’m currently learning **Discordjs & NextJs**
 
