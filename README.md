@@ -12,7 +12,7 @@
 - 🤝 looking for help with **Virtual Private Server(VPS)**.
 - 📫 Reach me through [@email](https://mailto:iamjoblessgod@gmail.com).
 
-⚡ Fact: _You never finish a program, you just stop working on it._
+⚡ Fact: _If it works, don't touch it._
 
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/JobLessGod/JobLessGod/output/snake.svg)
 
