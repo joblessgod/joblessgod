@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+d<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 <h2 align="center">Hello Sir<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm JobLessGod <br/>An IT student and software engineer from the Nepal.</h2>
 
@@ -50,8 +50,26 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p display="flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joblessgod&show_icons=true&locale=en&layout=compact&theme=radical" alt="joblessgod" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joblessgod&locale=en&theme=radical" alt="waiting for the streak response..." /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=joblessgod&show_icons=true&locale=en&theme=radical" alt="thatiemsz" /><br>
-</p>
+<div style="display:flex" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joblessgod&show_icons=true&locale=en&layout=compact&theme=radical" alt="joblessgod" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joblessgod&locale=en&theme=radical" alt="waiting for the streak response..." />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=joblessgod&show_icons=true&locale=en&theme=radical" alt="thatiemsz" /> -->
+</div>
+
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=tokyo-night)
+
+
+<!-- SOON -->
+<!-- ## 🛠️ Tech Stack
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div> -->
