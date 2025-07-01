@@ -1,4 +1,4 @@
-d<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 <h2 align="center">Hello Sir<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm JobLessGod <br/>An IT student and software engineer from the Nepal.</h2>
 
@@ -10,7 +10,7 @@ d<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 - 🌱 currently learning [Discordjs](https://discord.js.org/) & [NextJs](https://nextjs.org/).
 - 👯 looking to collaborate on **Hosting Provider**.
 - 🤝 looking for help with **Virtual Private Server(VPS)**.
-- 📫 Reach me through [@email](https://mailto:iamjoblessgod@gmail.com).
+- 📫 Reach me through [@email](mailto:iamjoblessgod@gmail.com).
 
 ⚡ Fact: _If it works, don't touch it._
 
