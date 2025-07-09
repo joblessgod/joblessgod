@@ -12,8 +12,6 @@
 - 🤝 looking for help with **Virtual Private Server(VPS)**.
 - 📫 Reach me through [@email](mailto:iamjoblessgod@gmail.com).
 
-⚡ Fact: _If it works, don't touch it._
-
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/JobLessGod/JobLessGod/output/snake.svg)
 
 # Connect with me
