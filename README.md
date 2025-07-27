@@ -1,73 +1,105 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<div align="center">
+  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+</div>
 
-<h2 align="center">Hello Sir<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm JobLessGod <br/>An IT student and software engineer from the Nepal.</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+Sir+%F0%9F%91%8B;I'm+JobLessGod;IT+Student+%26+Software+Engineer;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/joblessgod?color=7289da&logo=GitHub&style=for-the-badge)
-![Github profile views](https://komarev.com/ghpvc/?username=joblessgod&label=Profile%20views&color=7289da&style=for-the-badge)
+<div align="center">
 
-- 🛜 currently working on [webpage](https://sanchit.info.np).
-- 👨🏼‍💻 working as a web developer since 2023
-- 🌱 currently learning [Discordjs](https://discord.js.org/) & [NextJs](https://nextjs.org/).
-- 👯 looking to collaborate on **Hosting Provider**.
-- 🤝 looking for help with **Virtual Private Server(VPS)**.
-- 📫 Reach me through [@email](mailto:iamjoblessgod@gmail.com).
+[![GitHub followers](https://img.shields.io/github/followers/JobLessGod?color=58A6FF&logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/JobLessGod?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=JobLessGod&label=Profile%20views&color=58A6FF&style=for-the-badge)](https://github.com/JobLessGod)
+[![GitHub stars](https://img.shields.io/github/stars/JobLessGod?color=58A6FF&logo=github&style=for-the-badge)](https://github.com/JobLessGod)
+
+</div>
+
+## 🚀 About Me
+
+```js
+const profile = {
+  name: "JobLessGod",
+  role: "IT Student & Software Engineer",
+  location: "Nepal 🇳🇵",
+  experience: "Web Developer since 2023",
+  currentFocus: "Building amazing web experiences",
+  currentlyWorkingOn: "sanchit.info.np",
+  learning: ["Discord.js", "Next.js"],
+  lookingFor: "Hosting Provider collaboration",
+  seekingHelp: "VPS Management",
+  contact: "iamJobLessGod@gmail.com",
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### 🗄️ Databases & Hosting
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🛠️ Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 🔥 Fire Contributions:
+
+|                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img alt="JobLessGod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JobLessGod&theme=radical&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&fire=EB5454&currStreakNum=EBA203&bg_color=45%2C1B3325A6%2C1D222CD4" /> | <img alt="JobLessGod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobLessGod&theme=radical&hide_border=true&border_radius=5.1&langs_count=7&count_private=true&layout=compact&bg_color=45%2C1B3325A6%2C1D222CD4" /> |
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JobLessGod&theme=vitesse&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=810&card_height=208&fire=EB5454&currStreakNum=EBA203&background=45%2C1B3325A6%2C1D222CD4)](https://github.com/joblessgod)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JobLessGod&theme=tokyo-night)
+
+<!-- <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3> -->
+
+## 🐍 Contribution Snake
 
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/JobLessGod/JobLessGod/output/snake.svg)
 
-# Connect with me
+## 🤝 Connect With Me
 
-<p align="center">
-<a href="https://codepen.io/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joblessgod" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27147784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27147784" height="30" width="40" /></a>
-<a href="https://instagram.com/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joblessgod" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joblessgod" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/joblessgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joblessgod" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-# Skills
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjoblessgod@gmail.com)
+[![Website](https://img.shields.io/badge/Sanchit.info.np-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sanchit.info.np)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JobLessGod)
 
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
-
-<div style="display:flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joblessgod&show_icons=true&locale=en&layout=compact&theme=radical" alt="joblessgod" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joblessgod&locale=en&theme=radical" alt="waiting for the streak response..." />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=joblessgod&show_icons=true&locale=en&theme=radical" alt="thatiemsz" /> -->
 </div>
 
+---
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joblessgod&theme=tokyo-night)
-
-
-<!-- SOON -->
-<!-- ## 🛠️ Tech Stack
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div> -->
+  **Thanks for visiting my profile! 🚀**
+  
+  ![Made with ❤️ in Nepal](https://img.shields.io/badge/Made%20with%20❤️%20in-Nepal-orange?style=for-the-badge)
+</div>
