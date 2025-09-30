@@ -20,11 +20,11 @@
 ```js
 const profile = {
   name: "JobLessGod",
-  role: "IT Student & Software Engineer",
+  role: "Web App Developer",
   location: "Nepal 🇳🇵",
   experience: "Web Developer since 2023",
   currentFocus: "Building amazing web experiences",
-  currentlyWorkingOn: "sanchit.info.np",
+  currentlyWorkingOn: "horizion.in",
   learning: ["Discord.js", "Next.js"],
   lookingFor: "Hosting Provider collaboration",
   seekingHelp: "VPS Management",
@@ -80,10 +80,6 @@ const profile = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JobLessGod&theme=tokyo-night)
 
 <!-- <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3> -->
-
-## 🐍 Contribution Snake
-
-![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/JobLessGod/JobLessGod/output/snake.svg)
 
 ## 🤝 Connect With Me
 
