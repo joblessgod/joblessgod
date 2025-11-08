@@ -83,7 +83,6 @@ const profile = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjoblessgod@gmail.com)
-[![Website](https://img.shields.io/badge/sanchitbishwakarma.com.np-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sanchitbishwakarma.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JobLessGod)
 
 </div>
