@@ -2,9 +2,9 @@
   <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+Sir+%F0%9F%91%8B;I'm+JobLessGod;IT+Student+%26+Software+Engineer;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
-</div>
+</div> -->
 
 <div align="center">
 
@@ -20,15 +20,15 @@
 ```js
 const profile = {
   name: "JobLessGod",
-  role: "Web App Developer",
+  role: "Web Developer",
   location: "Nepal 🇳🇵",
   experience: "Web Developer since 2023",
-  currentFocus: "Building amazing web experiences",
-  currentlyWorkingOn: "horizion.in",
-  learning: ["Discord.js", "Next.js"],
-  lookingFor: "Hosting Provider collaboration",
-  seekingHelp: "VPS Management",
-  contact: "iamJobLessGod@gmail.com",
+  currentFocus: "building an industry level product",
+  currentlyWorkingOn: "industry level e-commerce",
+  learning: ["DevOps", "A.React", "A.Nodejs"],
+  lookingFor: "Virtual Machine",
+  seekingHelp: "find free virtual machine",
+  contact: "iamjoblessgod@gmail.com",
 };
 ```
 
@@ -56,6 +56,7 @@ const profile = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
 ### 🛠️ Tools & Others
 
@@ -63,6 +64,7 @@ const profile = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -76,23 +78,11 @@ const profile = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JobLessGod&theme=tokyo-night)
 
-<!-- <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3> -->
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjoblessgod@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JobLessGod)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-  **Thanks for visiting my profile! 🚀**
+  **Thanks for visiting my profile! Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" alt="🌟" height=25px width=25px> some repositories.**
   
   ![Made with ❤️ in Nepal](https://img.shields.io/badge/Made%20with%20❤️%20in-Nepal-orange?style=for-the-badge)
 </div>
